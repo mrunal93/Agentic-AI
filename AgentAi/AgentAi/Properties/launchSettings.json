@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AgentAi": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
