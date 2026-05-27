@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace AgentAi
 {
-    internal class MCPServer
+    public class MCPServer
     {
+
     }
 }
